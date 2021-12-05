@@ -16,6 +16,8 @@
 
 ### [重要公告（国内打得开）](https://notice.techxuexi.workers.dev/)
 
+[给 Techxuexi 成员，关于 Techxuexi 的 readme ，组织成员登录 github 之后可以查看，其他人只会提示 404](https://github.com/TechXueXi/techxuexi-readme)
+
 中国要强盛、要复兴，就一定要大力发展科学技术，努力成为世界主要科学中心和创新高地。我们比历史上任何时期都更接近中华民族伟大复兴的目标，我们比历史上任何时期都更需要建设世界科技强国！
 
 许多IT人员本终日埋头写代码，确实有需求，与其各人重复修改编写浪费生产力不如团队合作维护。我们欢迎五湖四海的同志们加入。
