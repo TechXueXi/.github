@@ -10,7 +10,7 @@
 
 ## 重要公告
 
-### [招募新成员！！如果您对 科技强国 类程序感兴趣，不论会哪种语言，点这里加入本组织，一起学习进步](https://github.com/TechXueXi/TechXueXi/issues/2)
+### [招募新成员！！点这里加入本组织，一起学习进步](https://github.com/TechXueXi/TechXueXi/issues/2)
 
 ### [交流群，加入防失联](https://github.com/TechXueXi/TechXueXi/issues/14)
 
@@ -25,3 +25,5 @@
 许多IT人员本终日埋头写代码，确实有需求，与其各人重复修改编写浪费生产力不如团队合作维护。我们欢迎五湖四海的同志们加入。
 
 ## 我们不接受任何捐赠。
+
+组织内也有其他一些辅助，请查看 https://github.com/orgs/TechXueXi/repositories
